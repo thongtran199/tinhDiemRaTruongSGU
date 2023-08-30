@@ -10,7 +10,7 @@ Kéo đến học kỳ gần nhất
 ![Xem điểm](https://github.com/thongtran199/tinhDiemRaTruongSGU/blob/main/xemDiem.jpg) 
 
 # Cách sử dụng 
-Điền đầy đủ thông tin cần thiết vào các ô ( ngoại trừ số môn dự kiến học cải thiện )  
+Điền đầy đủ thông tin cần thiết vào các ô ( ngoại trừ số môn dự kiến học cải thiện nếu không có nhu cầu)  
 ![Điền đầy đủ thông tin](https://github.com/thongtran199/tinhDiemRaTruongSGU/blob/main/dienThongTin.jpg)
 
 # Học cải thiện
