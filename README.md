@@ -1,7 +1,8 @@
 # tinhDiemRaTruongSGU  
 Các thông tin cần thiết để tính gồm STC tích lũy, GPA tích lũy (điểm trung bình tích lũy hệ 4), STC yêu cầu của ngành học, GPA mong muốn  
 # Xem điểm  
-STC tích lũy, GPA tích lũy có thể xem tại http://thongtindaotao.sgu.edu.vn/Default.aspx?page=xemdiemthi  
+STC tích lũy, GPA tích lũy có thể xem tại http://thongtindaotao.sgu.edu.vn/Default.aspx?page=xemdiemthi 
+Kéo đến học kỳ gần nhất  
 ![Xem điểm](https://github.com/thongtran199/tinhDiemRaTruongSGU/blob/main/xemDiem.jpg) 
 
 # Cách tính  
@@ -9,3 +10,18 @@ STC tích lũy, GPA tích lũy có thể xem tại http://thongtindaotao.sgu.edu
 ![Điền đầy đủ thông tin](https://github.com/thongtran199/tinhDiemRaTruongSGU/blob/main/dienThongTin.jpg)
 
 # Học cải thiện
+Nếu như bạn không có nhu cầu học cải thiện, hãy bỏ trống các ô liên quan  
+Ngược lại nếu bạn có dự định học cải thiện và muốn biết nếu học thì GPA sẽ cải thiện bao nhiêu, thì hãy điền vào các ô  
+"Số môn 4 chỉ sẽ học cải thiện" : Số môn 4 chỉ mà bạn dự định sẽ học. Sau đó chọn loại xếp loại mà bạn dự định sẽ cải thiện  
+"Số môn 3 chỉ sẽ học cải thiện" : Số môn 3 chỉ mà bạn dự định sẽ học. Sau đó chọn loại xếp loại mà bạn dự định sẽ cải thiện  
+"Số môn 2 chỉ sẽ học cải thiện" : Số môn 2 chỉ mà bạn dự định sẽ học. Sau đó chọn loại xếp loại mà bạn dự định sẽ cải thiện  
+Ví dụ:  
+![Điền đầy đủ thông tin](https://github.com/thongtran199/tinhDiemRaTruongSGU/blob/main/dienThongTin.jpg)  
+
+Trong ảnh trên mình có điền vào ô "Số môn 3 chỉ sẽ học cải thiện" là 2. Nghĩa là mình dự định học cải thiện 2 môn 3 tín chỉ. Ví dụ là môn A và B  
+Và xếp loại mình giả sử sẽ đạt được là A, từ C lên A. Thì để kéo lên 3.6 cần ít nhất 18 tín chỉ A  
+
+Nhưng nếu để trống, nghĩa là mình không học cải thiện, thì kết quả sẽ như sau: 
+![Khi không học cải thiện](https://github.com/thongtran199/tinhDiemRaTruongSGU/blob/main/koCaiThien.jpg)  
+
+Phải ít nhất 30 tín chỉ A mới kéo lên 3.6
