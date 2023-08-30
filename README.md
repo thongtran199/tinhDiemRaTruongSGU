@@ -5,7 +5,7 @@ Các thông tin cần thiết để tính gồm STC tích lũy, GPA tích lũy (
 Giả sử cần hoàn thành n môn học để tốt nghiệp  
 GPA tích lũy khi xét tốt nghiệp = [(số TC môn 1 * điểm hệ 4) + (số TC môn 2 * điểm hệ 4) + (số TC môn 3 * điểm hệ 4) + .... + (số TC môn n * điểm hệ 4)] / Tổng số TC của n môn học
 # Xem điểm  
-STC tích lũy, GPA tích lũy có thể xem tại http://thongtindaotao.sgu.edu.vn/Default.aspx?page=xemdiemthi 
+STC tích lũy, GPA tích lũy có thể xem tại http://thongtindaotao.sgu.edu.vn/Default.aspx?page=xemdiemthi  
 Kéo đến học kỳ gần nhất  
 ![Xem điểm](https://github.com/thongtran199/tinhDiemRaTruongSGU/blob/main/xemDiem.jpg) 
 
