@@ -1,6 +1,7 @@
 # tinhDiemRaTruongSGU  
 Các thông tin cần thiết để tính gồm STC tích lũy, GPA tích lũy (điểm trung bình tích lũy hệ 4), STC yêu cầu của ngành học, GPA mong muốn  
-
+0 <= GPA <= 4.0  
+  
 # Công thức  
 Giả sử cần hoàn thành n môn học để tốt nghiệp  
 GPA tích lũy khi xét tốt nghiệp = [(số TC môn 1 * điểm hệ 4) + (số TC môn 2 * điểm hệ 4) + (số TC môn 3 * điểm hệ 4) + .... + (số TC môn n * điểm hệ 4)] / Tổng số TC của n môn học
