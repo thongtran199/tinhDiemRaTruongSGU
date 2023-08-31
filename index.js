@@ -105,23 +105,23 @@ function handle() {
           } else {
             var f = stcConLai - d;
             span1.innerHTML = d + " tín chỉ D và ";
-            span2.innerHTML = "rớt " + f + " tín chỉ";
+            span2.innerHTML = "rớt " + f + " tín chỉ để được" + gpaMongMuon;
           }
         } else {
           var d = stcConLai - c;
           span1.innerHTML = c + " tín chỉ C và ";
-          span2.innerHTML = d + " tín chỉ D";
+          span2.innerHTML = d + " tín chỉ D để được" + gpaMongMuon;
         }
       } else {
         var c = stcConLai - b;
         span1.innerHTML = b + " tín chỉ B và ";
-        span2.innerHTML = c + " tín chỉ C";
+        span2.innerHTML = c + " tín chỉ C để được" + gpaMongMuon;
       }
     } else {
       var b = stcConLai - a;
       if (b >= 0) {
         span1.innerHTML = a + " tín chỉ A và ";
-        span2.innerHTML = b + " tín chỉ B";
+        span2.innerHTML = b + " tín chỉ B để được" + gpaMongMuon;
       } else {
         var rs = (stcTichLuy * gpaTichLuy + stcConLai * 4) / stcYeuCau;
         // console.log(stcTichLuy);
