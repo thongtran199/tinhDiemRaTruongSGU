@@ -107,4 +107,13 @@ div.thu-7 {
 @media screen and (max-width: 767px) {
 }
 @media screen and (max-width: 575px) {
+    .input-group input {
+    font-size: 12px;
+  }
+  .input-group .form-select {
+    font-size: 12px;
+  }
+  span.input-group-text {
+    font-size: 12px;
+  }
 }
