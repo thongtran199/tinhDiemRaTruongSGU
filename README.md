@@ -8,7 +8,7 @@ GPA tích lũy khi xét tốt nghiệp = [(số TC môn 1 * điểm hệ 4) + (s
 # Xem điểm  
 STC tích lũy, GPA tích lũy có thể xem tại https://thongtindaotao.sgu.edu.vn/#/diem  
 Kéo đến học kỳ gần nhất  
-![Xem điểm](https://github.com/thongtran199/tinhDiemRaTruongSGU/blob/main/xemDiem.jpg) 
+![Xem điểm](https://github.com/thongtran199/tinhDiemRaTruongSGU/blob/main/Xem%20diem.png) 
 
 # Cách sử dụng 
 Điền đầy đủ thông tin cần thiết vào các ô ( ngoại trừ số môn dự kiến học cải thiện nếu không có nhu cầu)  
